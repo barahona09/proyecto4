@@ -1,0 +1,11 @@
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.AssemblyInfoInputs.cache
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.AssemblyInfo.cs
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.csproj.CoreCompileInputs.cache
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\bin\Debug\net9.0\BibliotecaDescuentos.deps.json
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\bin\Debug\net9.0\BibliotecaDescuentos.dll
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\bin\Debug\net9.0\BibliotecaDescuentos.pdb
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.dll
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\refint\BibliotecaDescuentos.dll
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\BibliotecaDescuentos.pdb
+C:\Users\cbara\OneDrive\Documentos\programacion2025\miniproyecto4\BibliotecaDescuentos\obj\Debug\net9.0\ref\BibliotecaDescuentos.dll

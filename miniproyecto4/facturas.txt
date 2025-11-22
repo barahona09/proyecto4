@@ -1,0 +1,10 @@
+19/11/2025 03:43:14 p. m. | Christian Barahona | VIP | Subtotal: 1500 | Desc: 300.00 | Total: 1200.00
+19/11/2025 03:54:12 p. m. | keneth piano | Gold | Subtotal: 1000 | Desc: 200.00 | Total: 800.00
+19/11/2025 05:04:51 p. m. | juan perez | Regular | Subtotal: 500 | Desc: 75.00 | Total: 425.00
+19/11/2025 05:15:32 p. m. | pablo morales | Regular | Subtotal: 100 | Desc: 0 | Total: 100
+19/11/2025 05:16:52 p. m. | amalia flores | VIP | Subtotal: 500 | Desc: 100.00 | Total: 400.00
+22/11/2025 08:13:43 a. m. | chepe luis | VIP | Subtotal: 2000 | Desc: 400.00 | Total: 1600.00
+22/11/2025 08:22:32 a. m. | Christian Barahona | VIP | Subtotal: 1500 | Desc: 300.00 | Total: 1200.00
+22/11/2025 08:31:05 a. m. | jose luis | VIP | Subtotal: 10000 | Desc: 2000.00 | Total: 8000.00
+22/11/2025 08:41:31 a. m. | christian barahona | Regular | Subtotal: 500 | Desc: 0 | Total: 500
+22/11/2025 08:42:12 a. m. | jose piano | VIP | Subtotal: 500 | Desc: 100.00 | Total: 400.00
